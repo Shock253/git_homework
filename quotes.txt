@@ -1,1 +1,2 @@
 'Hello' -Albert Einstein
+'I am the senate' -Emperor Palpatine
